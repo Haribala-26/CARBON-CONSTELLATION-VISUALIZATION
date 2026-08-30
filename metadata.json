@@ -1,0 +1,6 @@
+{
+  "name": "Carbon Constellation",
+  "description": "The internet feels weightless. It isn't. An interactive celestial visualization revealing the invisible physical infrastructure, electricity, and carbon consequence behind billions of digital clicks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
